@@ -1,0 +1,17 @@
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\bin\Debug\net5.0\Grains.deps.json
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\bin\Debug\net5.0\Grains.dll
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\bin\Debug\net5.0\ref\Grains.dll
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\bin\Debug\net5.0\Grains.pdb
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\bin\Debug\net5.0\GrainsInterface.dll
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\bin\Debug\net5.0\GrainsInterface.pdb
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.csproj.AssemblyReference.cache
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.AssemblyInfoInputs.cache
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.AssemblyInfo.cs
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.csproj.CoreCompileInputs.cache
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.csproj.CopyComplete
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.dll
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\ref\Grains.dll
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.pdb
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.orleans.g.args.txt
+C:\Users\MikhailTushev\source\MyOrleanss\Grains\obj\Debug\net5.0\Grains.orleans.g.cs

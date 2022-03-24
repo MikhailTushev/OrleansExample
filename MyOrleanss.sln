@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansClient", "OrleansClient\OrleansClient.csproj", "{7B48EBF1-CF60-42EC-AC26-A8581E1ED021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grains", "Grains\Grains.csproj", "{3BEBABE2-391F-41A1-86AB-259D85F73588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainsInterface", "GrainsInterface\GrainsInterface.csproj", "{4D61E0BA-8FD4-4765-AB10-9707009A8CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B48EBF1-CF60-42EC-AC26-A8581E1ED021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B48EBF1-CF60-42EC-AC26-A8581E1ED021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B48EBF1-CF60-42EC-AC26-A8581E1ED021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B48EBF1-CF60-42EC-AC26-A8581E1ED021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEBABE2-391F-41A1-86AB-259D85F73588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEBABE2-391F-41A1-86AB-259D85F73588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEBABE2-391F-41A1-86AB-259D85F73588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEBABE2-391F-41A1-86AB-259D85F73588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D61E0BA-8FD4-4765-AB10-9707009A8CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D61E0BA-8FD4-4765-AB10-9707009A8CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D61E0BA-8FD4-4765-AB10-9707009A8CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D61E0BA-8FD4-4765-AB10-9707009A8CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
