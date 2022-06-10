@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+XK1f6vCUtkhvxqCqIOVc3jVWvvsOmFKA23n0OyGgIM7nX7uBWiu5RQxzcgc5DyTjJ9eFVGb457ttofNZqrhzw==",
+  "dgSpecHash": "tTZ2KS7eJEfIAVAjdvdknT2zcpkMXlFwVA/UA6KOo3X6T3srS4aKkN68gceLoSPj8ZEKpOwVckZlz6IKn9H3Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MikhailTushev\\source\\MyOrleanss\\GrainsInterface\\GrainsInterface.csproj",
+  "projectFilePath": "C:\\Users\\MikhailTushev\\source\\internal projects\\OrleansExample\\GrainsInterface\\GrainsInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MikhailTushev\\.nuget\\packages\\microsoft.orleans.codegenerator.msbuild\\3.5.1\\microsoft.orleans.codegenerator.msbuild.3.5.1.nupkg.sha512",
     "C:\\Users\\MikhailTushev\\.nuget\\packages\\microsoft.orleans.core.abstractions\\3.5.1\\microsoft.orleans.core.abstractions.3.5.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FhpwjqnnxZmoV98mruZM/WNvDnlOskKSt89Fp9ksj9q1Sil/cE3+gyeHSl7QciH7/w8XH8v3yQOREJlduB95LA==",
+  "dgSpecHash": "QbBTZ0zm9ojvHl6mieBkfogPnRVi1z6k0Php8edVHUkWQRuky2KgLraK+vtrrO6FzrHzctLHlFLUCGS8s5xXWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MikhailTushev\\source\\MyOrleanss\\OrleansClient\\OrleansClient.csproj",
+  "projectFilePath": "C:\\Users\\MikhailTushev\\source\\internal projects\\OrleansExample\\OrleansClient\\OrleansClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MikhailTushev\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.0.0\\microsoft.aspnetcore.connections.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\MikhailTushev\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.0.0\\microsoft.aspnetcore.http.features.3.0.0.nupkg.sha512",
@@ -125,7 +125,7 @@
     "C:\\Users\\MikhailTushev\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\MikhailTushev\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\MikhailTushev\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\MikhailTushev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+    "C:\\Users\\MikhailTushev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
