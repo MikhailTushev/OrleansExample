@@ -1,11 +1,11 @@
 LogLevel:Warning
-ProjectPath:C:\Users\MikhailTushev\source\MyOrleanss\GrainsInterface\GrainsInterface.csproj
+ProjectPath:C:\Users\MikhailTushev\source\internal projects\OrleansExample\GrainsInterface\GrainsInterface.csproj
 ProjectGuid:
 AssemblyName:GrainsInterface
 OutputType:Library
-TargetPath:C:\Users\MikhailTushev\source\MyOrleanss\GrainsInterface\bin\Debug\net5.0\GrainsInterface.dll
-CodeGenOutputFile:C:\Users\MikhailTushev\source\MyOrleanss\GrainsInterface\obj\Debug\net5.0\GrainsInterface.orleans.g.cs
-Compile:C:\Users\MikhailTushev\source\MyOrleanss\GrainsInterface\IHelloWorldGrain.cs
+TargetPath:C:\Users\MikhailTushev\source\internal projects\OrleansExample\GrainsInterface\bin\Debug\net5.0\GrainsInterface.dll
+CodeGenOutputFile:C:\Users\MikhailTushev\source\internal projects\OrleansExample\GrainsInterface\obj\Debug\net5.0\GrainsInterface.orleans.g.cs
+Compile:C:\Users\MikhailTushev\source\internal projects\OrleansExample\GrainsInterface\IHelloWorldGrain.cs
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\5.0.0\ref\net5.0\Microsoft.CSharp.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\5.0.0\ref\net5.0\Microsoft.VisualBasic.Core.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\5.0.0\ref\net5.0\Microsoft.VisualBasic.dll
@@ -160,4 +160,4 @@ Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\5.0.0\ref\net5
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\5.0.0\ref\net5.0\System.Xml.XPath.XDocument.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\5.0.0\ref\net5.0\WindowsBase.dll
 DefineConstants:TRACE,DEBUG,NET,NET5_0,NETCOREAPP
-InputHash:dc1719b75395fb139a1ce255b5b8753325e817bb
+InputHash:6bbfb2b4d1e5e94fa164475f72d6fcd82a812a10
